@@ -27,3 +27,5 @@ ansible -m ping all
 ----------------------------------------------------------------------------------------------------------------------------------------
 run the site.yaml file from ansible controller
 ansible-playbook site.yaml
+
+----------------------------------------------------------------------------------------------------------------------------------------for server hardening change the outbound rules of the instances to HTTP/HTTPS and choose the ip as anywhere.
